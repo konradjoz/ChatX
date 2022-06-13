@@ -9,10 +9,10 @@
     <img alt="GitHub followers badge" src="https://img.shields.io/github/followers/konradjoz?label=Follow&style=social">
   </span>
   <span display="inline" height="20px">
-    <img alt="GitHub followers badge" src="https://img.shields.io/github/forks/konradjoz/example?label=Forks&style=social">
+    <img alt="GitHub followers badge" src="https://img.shields.io/github/forks/konradjoz/ChatX?label=Forks&style=social">
   </span>
   <span display="inline" height="20px">
-    <img alt="GitHub followers badge" src="https://img.shields.io/github/stars/konradjoz/example?label=Stars&style=social">
+    <img alt="GitHub followers badge" src="https://img.shields.io/github/stars/konradjoz/ChatX?label=Stars&style=social">
   </span>
 </div>
 
